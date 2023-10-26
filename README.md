@@ -1,7 +1,7 @@
 
 ## Kanydian Esteves Canedo
 
-I'm a software developer and a lover of Linux distributions
+I'm a software developer and Data analytics
 
 #### Network:
 
