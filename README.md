@@ -10,6 +10,7 @@ I'm a software developer and Data analytics
 ![Markdown](https://img.shields.io/badge/markdown-00BF6F.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-purple?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-purple?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%237856FF.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%237856FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
